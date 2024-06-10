@@ -38,9 +38,14 @@ Part 1 - Libc Functions
 
 Re-implement the following standard C library functions with the ft_ prefix:
 
-    Character Checks: isalpha, isdigit, isalnum, isascii, isprint
-    String and Memory Operations: strlen, memset, bzero, memcpy, memmove, strlcpy, strlcat, toupper, tolower, strchr, strrchr, strncmp, memchr, memcmp, strnstr, atoi
-    Memory Allocation: calloc, strdup
+    Character Checks: 
+    isalpha, isdigit, isalnum, isascii, isprint
+    
+    String and Memory Operations: 
+    strlen, memset, bzero, memcpy, memmove, strlcpy, strlcat, toupper, tolower, strchr, strrchr, strncmp, memchr, memcmp, strnstr, atoi
+    
+    Memory Allocation: 
+    calloc, strdup
 
 Part 2 - Additional Functions
 
@@ -53,7 +58,9 @@ Develop the following additional functions:
     Integer to String: ft_itoa - Converts an integer to a string.
     String Mapping: ft_strmapi - Applies a function to each character of a string, creating a new string.
     String Iteration: ft_striteri - Applies a function to each character of a string, modifying it in place.
-    File Descriptor Operations:
+
+File Descriptor Operations:
+
         ft_putchar_fd - Outputs a character to a given file descriptor.
         ft_putstr_fd - Outputs a string to a given file descriptor.
         ft_putendl_fd - Outputs a string followed by a newline to a given file descriptor.
