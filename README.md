@@ -1,8 +1,8 @@
 Welcome to the Libft Project! This project is designed to understand and implement essential functions from the standard C library. By creating my own library, libft, I obtained a deeper understanding of how these functions work.
 
-The objective of this project is to create a comprehensive library of functions that replicate standard C library functions and extend functionality with additional useful routines. This library is intended to serve as a foundation for subsequent C programming projects, ensuring reliable set of tools.
+The objective is to create a comprehensive library of functions that replicate standard C library functions and extend functionality with additional useful routines. This is intended to serve as a foundation for subsequent C programming projects, ensuring reliable set of tools.
 
-In the libft I re-implement a set of functions from the standard C library (libc). These functions must have the same prototypes and behaviors as the originals, but with the prefix ft_. 
+These functions must have the same prototypes and behaviors as the originals, but with the prefix ft_. 
 
 In addition to the libc functions, I also develop a set of additional functions that are not part of the standard C library or are implemented differently.
 
